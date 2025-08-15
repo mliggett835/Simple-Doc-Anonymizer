@@ -1,4 +1,4 @@
-# 🔒 Document Anonymizer
+# Document Anonymizer
 
 A powerful Streamlit application for protecting PII, technical data, and business information in documents before cloud processing.
 
@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support & Maintenance
 
-⚠️ **Important**: This project is maintained during free time and is not actively supported. 
+**Important**: This project is maintained during free time and is not actively supported. 
 
 - Issues and pull requests are welcome but may not receive immediate responses
 - For urgent needs, consider forking and maintaining your own version
